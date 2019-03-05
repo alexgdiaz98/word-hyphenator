@@ -29,10 +29,11 @@ m i s-t r a n s-l a t e           | | | |5| | | | | | | | | | | | | xi5c
                                   l e x-i-c o-g r a p h-i-c a l-l y
 ```
 ## Usage
-To debug:
-
-```python3 WordSplitsDebug.py``` or ```./WordSplitsDebug.py```
 
 To use (all english language words):
 
 ```python3 WordSplits.py``` or ```./WordSplits.py```
+
+To use with custom .txt file:
+
+```python3 WordSplits.py [file_name]```
