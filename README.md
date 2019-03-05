@@ -1,5 +1,5 @@
 # Word Hyphenator
-Python project that uses Liang's Algorithm to hyphenate words lfor use in a dictionary. These hyphens occur to denote where one would hyphenate a word to separate it between two lines.
+Python project that uses Liang's Algorithm to hyphenate words for use in a dictionary. These hyphens occur to denote where one would hyphenate a word to separate it between two lines.
 
 ## Logic
 
